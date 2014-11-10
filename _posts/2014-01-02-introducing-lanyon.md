@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2014-01-02-introducing-lanyon.md"
+title: Introducing Lanyon
 published: true
 ---
 
