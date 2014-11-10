@@ -1,6 +1,6 @@
 ---
 layout: post
-title: TEST BLOG
+title: "2014-01-02-introducing-lanyon.md"
 published: true
 ---
 
