@@ -4,7 +4,7 @@ title: Introducing Volcano Mapping
 published: true
 ---
 
-![USAID](/https://raw.githubusercontent.com/CmdrKerfy/CmdrKerfy.github.io/master/_images/USAID.png)
+![USAID](/https://raw.github.com/CmdrKerfy/CmdrKerfy.github.io/master/_images/USAID.png)
 
 Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
 
