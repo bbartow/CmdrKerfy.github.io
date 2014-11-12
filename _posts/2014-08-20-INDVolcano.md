@@ -25,6 +25,79 @@ USAID/OFDA is already using OpenStreetMap data for planning. Taken from the late
 ![FactSheet4](http://i.imgur.com/aW9rpNh.png)
 ![FactSheet5](http://i.imgur.com/UvefRKJ.png)
 
+The severe lack of Open Data around Volcanoes in Indonesia was highlighted by OFDA’s Volcano
+Disaster Assistance Program (VDAP) as posing particular challenges to its ability to model the risks
+posed by volcanic hazards in these areas. VDAP is interested in creating data for these vulnerable
+areas and has highlighted 10 priority volcanoes.
+
+<table>
+  <thead>
+    <tr>
+      <th>Volcano Name</th>
+      <th>Location</th>
+      <th>Latitude</th>
+      <th>Longitude</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Kelud</td>
+      <td>East Java</td>
+      <td>7.933845</td>
+      <td>112.305619</td>
+    </tr>
+    <tr>
+      <td>Paluweh</td>
+      <td>East Nusa Tenngara</td>
+      <td>8.329502</td>
+      <td>121.709712</td>
+    </tr>
+    <tr>
+      <td>Sinabung</td>
+      <td>Sumatra</td>
+      <td>3.171072</td>
+      <td>98.3909</td>
+    </tr>
+    <tr>
+      <td>Karangetang</td>
+      <td>North Sulawesi</td>
+      <td>2.780914</td>
+      <td>125.40602</td>
+    </tr>
+    <tr>
+      <td>Awu</td>
+      <td>North Sulawesi</td>
+      <td>3.664541</td>
+      <td>125.492821</td>
+    </tr>
+    <tr>
+      <td>Dukono</td>
+      <td>Molluccas Islands</td>
+      <td>1.662568</td>
+      <td>127.858195</td>
+    </tr>
+    <tr>
+      <td>Gamalama</td>
+      <td>Molluccas Islands</td>
+      <td>0.808528</td>
+      <td>127.33219</td>
+    </tr>
+    <tr>
+      <td>Gamkonora and Ibu</td>
+      <td>Molluccas Islands</td>
+      <td>1.378573</td>
+      <td>127.53131</td>
+    </tr>
+    <tr>
+      <td>Ruang</td>
+      <td>North Sulawesi</td>
+      <td>2.303383</td>
+      <td>125.36649</td>
+    </tr>
+    </tr>
+  </tbody>
+</table>
+
 -----
 <div class="message">
   Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
