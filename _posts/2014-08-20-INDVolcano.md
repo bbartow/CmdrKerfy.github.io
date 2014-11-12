@@ -15,9 +15,15 @@ Many active volcanoes lack open data about the buildings and infrastructure surr
 
 <sup>Fig.2 Bing Maps Imagery and OpenStreetMap Image of Jakarta, Indonesia</sup>
 
-![Volcano2](http://i.imgur.com/3PguS3W.png)
-![Volcano2](http://i.imgur.com/3PguS3W.png)
-![Volcano2](http://i.imgur.com/3PguS3W.png)
+Figure 2 highlights the infrastructure added to OpenStreetMap (OSM) in central Jakarta which has received more attention and effort from the local open data community. All of the dark tan polygons displayed on the right of Fig. 2 are descriptions of Jakarta’s buildings which were added to OSM, They are now available not just in the picture or on OSM’s website but to download by anybody for free for use in a variety of software. This data can be used in hazard risk models, to inform development decisions or for a variety of other purposes. The main reason we include Fig 2 is to demonstrate the difference that attention from the volunteer community can make and to highlight the severe lack of open data around many Indonesian volcanoes.
+
+USAID/OFDA is already using OpenStreetMap data for planning. Taken from the latest Indonesian Fact Sheet, these images show the information constraints USAID/OFDA currently faces.
+
+![FactSheet](http://i.imgur.com/VAVEDLG.jpg)
+![FactSheet2](http://i.imgur.com/WMOIyGt.jpg)
+![FactSheet3](http://i.imgur.com/F9TmLpS.png)
+![FactSheet4](http://i.imgur.com/aW9rpNh.png)
+![FactSheet5](http://i.imgur.com/UvefRKJ.png)
 
 -----
 <div class="message">
