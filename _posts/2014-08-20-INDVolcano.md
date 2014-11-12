@@ -112,10 +112,12 @@ mapping events.
 A couple recent examples include:
 
 <div class="message">
+
 * Department of States collaboration with the International Red Cross (IRC) Humanitarian OpenStreetMap Team (HOT) to perform damage assessments in Tacloban after cyclone Yolanda. http://bit.ly/1wMBS37
 
 * IRC’s collaboration with Department of State’s Humanitarian Information Center mapping out communities in west africa affected by the Ebola outbreak. http://bit.ly/ZeRWj2
-* </div>
+
+</div>
 
 Previous mapping parties have looked very different depending on what is being mapped and the level of local knowledge required to do so. Sometimes they require extensive training support or necessitate some level of local knowledge and sometimes basic knowledge about how to navigate a browser is sufficient to enable successful contribution. Luckily, infrastructure around volcanoes is easy enough to trace from satellite imagery so the barriers to entry for interested volunteers are low for contributing to our shared data on this theme. Although local knowledge is always helpful in adding depth to data, these activities can scale dramatically when a broad volunteer base is appropriate.
 
