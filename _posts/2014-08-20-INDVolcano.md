@@ -9,15 +9,15 @@ Many active volcanoes lack open data about the buildings and infrastructure surr
 
 ![Volcano1](http://i.imgur.com/0q0ODRz.png)
 
-<div class="message">
-Fig.1 Bing Map Imagery and OpenStreetMap Image of Kediri, Indonesia
-</div>
+<sup>Fig.1 Bing Map Imagery and OpenStreetMap Image of Kediri, Indonesia</sup>
 
 ![Volcano2](http://i.imgur.com/3PguS3W.png)
 
-  > Fig.2 Bing Maps Imagery and OpenStreetMap Image of Jakarta, Indonesia
+<sup>Fig.2 Bing Maps Imagery and OpenStreetMap Image of Jakarta, Indonesia</sup>
 
-
+![Volcano2](http://i.imgur.com/3PguS3W.png)
+![Volcano2](http://i.imgur.com/3PguS3W.png)
+![Volcano2](http://i.imgur.com/3PguS3W.png)
 
 -----
 <div class="message">
