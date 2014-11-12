@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Indonesia Data Creation ![USAID](http://i.imgur.com/fs6AlD4.png)
+title: Indonesia Data Creation
 ---
-
+<center>![USAID](http://i.imgur.com/fs6AlD4.png)</center>
 
 ###The Problem
 
