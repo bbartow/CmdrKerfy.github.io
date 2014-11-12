@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Example content
+title: Indonesia Data Creation
 ---
 
 ##The Problem
