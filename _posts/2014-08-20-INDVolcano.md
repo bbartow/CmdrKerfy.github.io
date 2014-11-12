@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Indonesia Data Creation
+image: http://i.imgur.com/fs6AlD4.png
 ---
 
 <center>![USAID](http://i.imgur.com/fs6AlD4.png)</center>
