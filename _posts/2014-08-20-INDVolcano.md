@@ -2,6 +2,7 @@
 layout: post
 title: Indonesia Data Creation
 ---
+
 <center>![USAID](http://i.imgur.com/fs6AlD4.png)</center>
 
 ###The Problem
@@ -118,12 +119,38 @@ Beyond the collection of of useful data, volunteer mapping also serves as a prod
 
 A glance at the list of previous volunteer mapping activities highlights and it is easy to see from the various agencies and NGO’s participating that these activities tend to be highly collaborative by nature with a number of Agencies and NGO’s bringing their particular strengths to bear. Below is a selection of institutions and potential collaborators with assets useful to volunteer mapping in Indonesia.
 
+<table>
+  <thead>
+    <tr>
+      <th>ORGANIZATION</th>
+      <th>DETAILS</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>USAID/Geocenter</td>
+      <td><strong>Coordination/Implementation</strong> - Has a vehicle for promoting and hosting volunteer mapping events under their “Mapping for Resilience” (MFR). A number of mapping events have already been held under MFR. MFR would provide ties to domestic universities, a central location to host the event and a guaranteed base of participants if we leveraged their resources.</td>
+    </tr>
+    <tr>
+      <td>DoS/HIU</td>
+      <td><strong>Training/Imagery/Outreach</strong> - Has created a platform to train new users on how to add data to OpenStreetMap called MapGive (http://mapgive.state.gov/). HIU also has an established mechanism for supplying imagery if the quality of publicly available imagery is not good enough for volunteer mapping, it is called Imagery to the Crowd. HIU has also recently brought on a Presidential Innovation Fellow who has experience in doing outreach and hosting international volunteer mapping events.</td>
+    </tr>
+    <tr>
+      <td>Sinabung</td>
+      <td>Sumatra</td>
+    </tr>
+    <tr>
+      <td>Karangetang</td>
+      <td>North Sulawesi</td>
+    </tr>
+  </tbody>
+</table>
+
+
 -----
 <div class="message">
   Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
 </div>
-
-Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
 
 > Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
 
@@ -161,11 +188,7 @@ adder(2, 6);
 // > 8
 {% endhighlight %}
 
-Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.
-
 ### Lists
-
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
 
 * Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
 * Donec id elit non mi porta gravida at eget metus.
@@ -190,11 +213,7 @@ Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at
   <dd>The programming language used to build advanced Web sites and applications</dd>
 </dl>
 
-Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.
-
 ### Tables
-
-Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 <table>
   <thead>
@@ -229,8 +248,6 @@ Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, conse
     </tr>
   </tbody>
 </table>
-
-Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
 
 -----
 
