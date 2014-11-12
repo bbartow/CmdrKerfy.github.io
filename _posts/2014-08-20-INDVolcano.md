@@ -15,9 +15,8 @@ Fig.1 Bing Map Imagery and OpenStreetMap Image of Kediri, Indonesia
 
 <img src="https://github.com/CmdrKerfy/CmdrKerfy.github.io/blob/master/_images/indonesia/osm2ge2.png" title="Volcano 2" align="middle" />
 
-<div class="message">
-Fig.2 Bing Maps Imagery and OpenStreetMap Image of Jakarta, Indonesia
-</div>
+  > Fig.2 Bing Maps Imagery and OpenStreetMap Image of Jakarta, Indonesia
+
 
 
 -----
