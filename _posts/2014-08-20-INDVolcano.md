@@ -9,11 +9,11 @@ Many active volcanoes lack open data about the buildings and infrastructure surr
 
 ![Volcano1](http://i.imgur.com/0q0ODRz.png)
 
-<center><sup>Fig.1 Bing Map Imagery and OpenStreetMap Image of Kediri, Indonesia</sup></center>
+<sup align = "middle">Fig.1 Bing Map Imagery and OpenStreetMap Image of Kediri, Indonesia</sup>
 
 ![Volcano2](http://i.imgur.com/3PguS3W.png)
 
-<center><sup>Fig.2 Bing Maps Imagery and OpenStreetMap Image of Jakarta, Indonesia</sup></center>
+<sup align = "center">Fig.2 Bing Maps Imagery and OpenStreetMap Image of Jakarta, Indonesia</sup>
 
 Figure 2 highlights the infrastructure added to OpenStreetMap (OSM) in central Jakarta which has received more attention and effort from the local open data community. All of the dark tan polygons displayed on the right of Fig. 2 are descriptions of Jakarta’s buildings which were added to OSM, They are now available not just in the picture or on OSM’s website but to download by anybody for free for use in a variety of software. This data can be used in hazard risk models, to inform development decisions or for a variety of other purposes. The main reason we include Fig 2 is to demonstrate the difference that attention from the volunteer community can make and to highlight the severe lack of open data around many Indonesian volcanoes.
 
