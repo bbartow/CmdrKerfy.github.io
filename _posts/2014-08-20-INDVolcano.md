@@ -2,8 +2,11 @@
 layout: post
 title: Indonesia Data Creation
 ---
+![USAID](http://i.imgur.com/fs6AlD4.png)
 
 ###The Problem
+
+![Flee](http://i.imgur.com/vwdh3dW.jpg)
 
 Many active volcanoes lack open data about the buildings and infrastructure surrounding them, making it difficult to ascertain the risk posed by volcanic hazards. This problem is especially evident in Indonesia; Figure 1 below demonstrates the extent of this problem. Kediri, a town 19 miles to the West of Mount Kelud in East Java was evacuated earlier this year when threatened by Kelud’s February eruption. Despite this, virtually no effort has been made to map the homes and infrastructure of this or any other surrounding town. Determining the extent and distribution of risk to local infrastructure posed by Kelud is just as difficult today as it was before its most recent eruption.
 
@@ -97,6 +100,23 @@ areas and has highlighted 10 priority volcanoes.
     </tr>
   </tbody>
 </table>
+
+###Volunteer Mapping
+
+Volunteer mapping refers to activities that encourage a group of volunteers to apply their knowledge and skills to synthesizing or compiling spatial information from a variety of sources (such as satellite imagery) and editing that information into a database that is freely open and available to the humanitarian community. Often these activities are organized around specific events called mapping parties in which participants meet to edit the map together.
+
+Mapping activities are typically organized around editing data into OpenStreetMap. OSM is preferable to many alternatives because of the liberal licensing of its data and the robust toolchain built around it. The quality of the tools built to interact with OSM reflects the interest it has garnered from humanitarian agencies in that many of these have been developed with support from agencies like the Department of State/HIU, USAID/Geocenter, International Red Cross, not to mention our own. OFDA helped fund an update to the OpenStreetMap tasking server which was build to aid in the coordination of volunteer
+mapping events.
+
+A couple recent examples include:
+* Department of States collaboration with the International Red Cross (IRC) Humanitarian OpenStreetMap Team (HOT) to perform damage assessments in Tacloban after cyclone Yolanda. http://bit.ly/1wMBS37
+* IRC’s collaboration with Department of State’s Humanitarian Information Center mapping out communities in west africa affected by the Ebola outbreak. http://bit.ly/ZeRWj2
+
+Previous mapping parties have looked very different depending on what is being mapped and the level of local knowledge required to do so. Sometimes they require extensive training support or necessitate some level of local knowledge and sometimes basic knowledge about how to navigate a browser is sufficient to enable successful contribution. Luckily, infrastructure around volcanoes is easy enough to trace from satellite imagery so the barriers to entry for interested volunteers are low for contributing to our shared data on this theme. Although local knowledge is always helpful in adding depth to data, these activities can scale dramatically when a broad volunteer base is appropriate.
+
+Beyond the collection of of useful data, volunteer mapping also serves as a productive outreach vehicle. These activities convene interest around a specific theme and give interested parties an avenue to participate in international humanitarianism productively. VDAP is specifically interested in ways to get Indonesians to participate in mapping infrastructure around Volcanoes.
+
+A glance at the list of previous volunteer mapping activities highlights and it is easy to see from the various agencies and NGO’s participating that these activities tend to be highly collaborative by nature with a number of Agencies and NGO’s bringing their particular strengths to bear. Below is a selection of institutions and potential collaborators with assets useful to volunteer mapping in Indonesia.
 
 -----
 <div class="message">
