@@ -128,20 +128,20 @@ A glance at the list of previous volunteer mapping activities highlights and it 
   </thead>
   <tbody>
     <tr>
-      <td>USAID/Geocenter</td>
+      <td><center>USAID/Geocenter</center></td>
       <td><strong>Coordination/Implementation</strong> - Has a vehicle for promoting and hosting volunteer mapping events under their “Mapping for Resilience” (MFR). A number of mapping events have already been held under MFR. MFR would provide ties to domestic universities, a central location to host the event and a guaranteed base of participants if we leveraged their resources.</td>
     </tr>
     <tr>
-      <td>DoS/HIU</td>
+      <td><center>DoS/HIU</center></td>
       <td><strong>Training/Imagery/Outreach</strong> - Has created a platform to train new users on how to add data to OpenStreetMap called MapGive (http://mapgive.state.gov/). HIU also has an established mechanism for supplying imagery if the quality of publicly available imagery is not good enough for volunteer mapping, it is called Imagery to the Crowd. HIU has also recently brought on a Presidential Innovation Fellow who has experience in doing outreach and hosting international volunteer mapping events.</td>
     </tr>
     <tr>
-      <td>Sinabung</td>
-      <td>Sumatra</td>
+      <td><center>World Bank/GFDRR</center></td>
+      <td><strong>Outreach</strong> - The world bank has done a lot of work and put a lot of thought behind how to use OSM for resilience, they recently wrote a field guide for interacting with open data for humanitarian managers called Open Data for Resilience Field Guide (https://www.gfdrr.org/ODRIFG). GFDRR has developed ties to many of the key actors around OSM in the field.</td>
     </tr>
     <tr>
-      <td>Karangetang</td>
-      <td>North Sulawesi</td>
+      <td><center>Humanitarian OpenStreetMap Team (HOT)</center></td>
+      <td><strong>Tools/Outreach</strong> - Manages and builds tools used for managing and coordinating mapping activities and has experience providing training and supporting mapping events.</td>
     </tr>
   </tbody>
 </table>
