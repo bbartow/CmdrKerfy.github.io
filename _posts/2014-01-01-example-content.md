@@ -9,10 +9,10 @@ title: Example content
 Many active volcanoes lack open data about the buildings and infrastructure surrounding them, making it difficult to ascertain the risk posed by volcanic hazards. This problem is especially evident in Indonesia; Figure 1 below demonstrates the extent of this problem. Kediri, a town 19 miles to the West of Mount Kelud in East Java was evacuated earlier this year when threatened by Kelud’s February eruption. Despite this, virtually no effort has been made to map the homes and infrastructure of this or any other surrounding town. Determining the extent and distribution of risk to local infrastructure posed by Kelud is just as difficult today as it was before its most recent eruption.
 </div>
 
-->![Volcano 1](/http://i.imgur.com/0q0ODRz.png)<-
-->Fig.1 Bing Map Imagery and OpenStreetMap Image of Kediri, Indonesia<-
-->![Volcano 2](/http://i.imgur.com/0q0ODRz.png)<-
-->Fig.2 Bing Maps Imagery and OpenStreetMap Image of Jakarta, Indonesia<-
+![Volcano 1](/http://i.imgur.com/0q0ODRz.png)
+Fig.1 Bing Map Imagery and OpenStreetMap Image of Kediri, Indonesia
+![Volcano 2](/http://i.imgur.com/0q0ODRz.png)
+Fig.2 Bing Maps Imagery and OpenStreetMap Image of Jakarta, Indonesia
 
 
 
