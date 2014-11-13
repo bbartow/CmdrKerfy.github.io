@@ -102,7 +102,7 @@ areas and has highlighted 10 priority volcanoes.
   </tbody>
 </table>
 
-###Volunteer Mapping
+##<strong>Volunteer Mapping</strong>
 
 Volunteer mapping refers to activities that encourage a group of volunteers to apply their knowledge and skills to synthesizing or compiling spatial information from a variety of sources (such as satellite imagery) and editing that information into a database that is freely open and available to the humanitarian community. Often these activities are organized around specific events called mapping parties in which participants meet to edit the map together.
 
