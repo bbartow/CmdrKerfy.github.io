@@ -105,6 +105,7 @@ areas and has highlighted 10 priority volcanoes.
 </table>
 
 <ol></ol>
+<ol></ol>
 
 ##<strong>Volunteer Mapping</strong>
 
