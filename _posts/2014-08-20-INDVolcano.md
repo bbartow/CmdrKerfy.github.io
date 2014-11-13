@@ -13,7 +13,7 @@ Many active volcanoes lack open data about the buildings and infrastructure surr
 
 ![Volcano1](http://i.imgur.com/0q0ODRz.png)
 
-<center><sup>Fig.1 Bing Map Imagery and OpenStreetMap Image of Kediri, Indonesia</sup></center>
+<center><sup><i>Fig.1 Bing Map Imagery and OpenStreetMap Image of Kediri, Indonesia</i></sup></center>
 
 The open data community is working on fixing these data gaps around the world. Figure 2 highlights the infrastructure added to OpenStreetMap (OSM) for a different areas in Indonesia, in this case central Jakarta. OpenStreetMap, often referred to as the Wikipedia of maps, is a collaborative project to create a free editable map of the world. Jakarta has received much attention and effort from this community and the local open data community. 
 
@@ -44,7 +44,7 @@ USAID/OFDA is already using OpenStreetMap data for planning. Taken from the late
 
 ![FactSheet6](http://i.imgur.com/qdntDn3.png)
 
-<center><sup>The inset map as it's seen in Google Maps.</sup></center>
+<center><sup>The inset map as it's seen in Google Maps. Slightly more data, but still lacking.</sup></center>
 
 ![FactSheet4](http://i.imgur.com/aW9rpNh.png)
 
