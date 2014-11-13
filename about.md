@@ -1,10 +1,8 @@
 ---
 layout: page
-title: 
+title:  OpenStreetMap Tracing Guide
 ---
 <center>![USAID](http://i.imgur.com/fs6AlD4.png)</center> 
-
-##<strong>OpenStreetMap Tracing Guide</strong>
 
 <p class="message">
   Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
