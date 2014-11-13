@@ -4,6 +4,7 @@ title:
 ---
 
 <center>![USAID](http://i.imgur.com/fs6AlD4.png)</center> 
+<center>![USGS](http://i.imgur.com/Gfq14lo.png)</center> 
 
 ##<strong>Improving Data Poor Environments</strong>
 
@@ -123,6 +124,8 @@ The severe lack of Open Data around Volcanoes in Indonesia was highlighted by OF
     </tr>
   </tbody>
 </table>
+
+![Volcanoes](http://i.imgur.com/DtVwYQH.png)
 
 -----
 ##<strong>Volunteer Data Creation</strong>
