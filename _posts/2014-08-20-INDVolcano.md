@@ -182,6 +182,23 @@ A glance at the list of previous volunteer mapping activities highlights and it 
   </tbody>
 </table>
 
+##<strong>Proposal</strong>
+
+An event aimed at promoting the creation of data on the location and distribution of buildings, roads and agricultural fields around a 50 km radius of the 10 volcanoes in fig. 3. The event would take place March/April 2015 and could be handled in two ways. If encouraging Indonesian participation is not identified as an explicit goal than we could continue on with this activity focused around a domestic event at no cost to OFDA save for some staff time. If we aim to encourage Indonesian volunteerism than some funding would be necessary to secure an international partner who can host a linked event in Indonesia and assist in coordination and outreach.
+
+It is expected that in March 2015, volcanoes in Indonesia will not be receiving the consistent media coverage that has focused the public’s attention and increased volunteers. Because of this, special outreach measures are necessary to garner support for this effort. The most effective way to perform this outreach is through partnership and by leveraging the resources of the intra-agency.
+
+The following efforts will help to elicit participation in this activity:
+
+<div class="message">
+DC Mapping Event
+<li>Hosting the activity under the umbrella of USAID/Geocenter’s “Mapping for Resilience” program will ensure that the mapping event is incorporated into a GIS class at a local university (George Washington University) guaranteeing a base level of participation.</li>
+<ol></ol>
+
+Indonesia Mapping Event
+<li>DoS/HIU MapGive training documentation can be translated to Indonesian to ensure training materials are available to assist less skilled participants.</li>
+<li>Indonesian partner (yet to be identified) will promote the activity to local Indonesian Universities, identify a location for the mapping event and host it.</li>
+</div>
 
 -----
 <div class="message">
