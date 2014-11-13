@@ -19,7 +19,7 @@ The open data community is working on fixing these data gaps around the world. F
 
 ![Volcano2](http://i.imgur.com/3PguS3W.png)
 
-<center><sup>Fig.2 Bing Maps Imagery and OpenStreetMap Image of Jakarta, Indonesia</sup></center>
+<center><sup><i>Fig.2 Bing Maps Imagery and OpenStreetMap Image of Jakarta, Indonesia</i></sup></center>
 
 All of the dark tan polygons displayed on the right of Fig. 2 are descriptions of Jakarta’s buildings which were added to OSM, They are now available not just in the picture or on OSM’s website but to download by anybody for free for use in a variety of software. This data can be used in hazard risk models, to inform development decisions or for a variety of other purposes. 
 
@@ -32,34 +32,31 @@ USAID/OFDA is already using OpenStreetMap data for planning. Taken from the late
 
 ![FactSheet](http://i.imgur.com/VAVEDLG.jpg)
 
-<center><sup>Image of a map, taken from the latest USAID/OFDA Indonesian Fact Sheet.</sup></center>
+<center><sup><i>Image of a map, taken from the latest USAID/OFDA Indonesian Fact Sheet.</i></sup></center>
 
 ![FactSheet2](http://i.imgur.com/WMOIyGt.jpg)
 
-<center><sup>Close up of the inset map.</sup></center>
+<center><sup><i>Close up of the inset map.</i></sup></center>
 
 ![FactSheet3](http://i.imgur.com/F9TmLpS.png)
 
-<center><sup>The inset map as it's seen in OpenStreetMap</sup></center>
+<center><sup><i>The inset map as it's seen in OpenStreetMap</i></sup></center>
 
 ![FactSheet6](http://i.imgur.com/qdntDn3.png)
 
-<center><sup>The inset map as it's seen in Google Maps. Slightly more data, but still lacking.</sup></center>
+<center><sup><i>The inset map as it's seen in Google Maps. Slightly more data, but still lacking.</i></sup></center>
 
 ![FactSheet4](http://i.imgur.com/aW9rpNh.png)
 
-<center><sup>What the location actually looks via satellite (Google Earth).</sup></center>
+<center><sup></i>What the location actually looks via satellite (Google Earth).</i></sup></center>
 
 ![FactSheet5](http://i.imgur.com/UvefRKJ.png)
 
-<center><sup>Note the amount of missing data.</sup></center>
+<center><sup><i>Note the amount of missing data when comparing online data repositories with satellite imagery.</i></sup></center>
 
 ###Hazard/Risk Modelling
 
-The severe lack of Open Data around Volcanoes in Indonesia was highlighted by OFDA’s Volcano
-Disaster Assistance Program (VDAP) as posing particular challenges to its ability to model the risks
-posed by volcanic hazards in these areas. VDAP is interested in creating data for these vulnerable
-areas and has highlighted 10 priority volcanoes.
+The severe lack of Open Data around Volcanoes in Indonesia was highlighted by OFDA’s Volcano Disaster Assistance Program (VDAP) as posing particular challenges to its ability to model the risks posed by volcanic hazards in these areas. VDAP is interested in creating data for these vulnerable areas and working with their counterparts in Indonesia to use these data to improve hazard assessments. They have highlighted 10 priority volcanoes.
 
 <ol></ol>
 
@@ -131,15 +128,16 @@ areas and has highlighted 10 priority volcanoes.
   </tbody>
 </table>
 
-In 
-
 -----
-##<strong>Volunteer Mapping</strong>
+##<strong>Volunteer Data Creation</strong>
 
-Volunteer mapping refers to activities that encourage a group of volunteers to apply their knowledge and skills to synthesizing or compiling spatial information from a variety of sources (such as satellite imagery) and editing that information into a database that is freely open and available to the humanitarian community. Often these activities are organized around specific events called mapping parties in which participants meet to edit the map together.
+In an effort to assist USGS's Volcano Disaster Assistance Program and USAID/OFDA's Indonesian Programs, it was determined that a data creation event centered around the OpenStreetMap platform would be the most optimal way to both create data and engage the local Indonesian community.
 
-Mapping activities are typically organized around editing data into OpenStreetMap. OSM is preferable to many alternatives because of the liberal licensing of its data and the robust toolchain built around it. The quality of the tools built to interact with OSM reflects the interest it has garnered from humanitarian agencies in that many of these have been developed with support from agencies like the Department of State/HIU, USAID/Geocenter, International Red Cross, not to mention our own. OFDA helped fund an update to the OpenStreetMap tasking server which was build to aid in the coordination of volunteer
-mapping events.
+###What is Volunteer Data Creation?
+
+Volunteer data creation refers to activities that encourage a group of volunteers to apply their knowledge and skills to synthesizing or compiling spatial information from a variety of sources (such as satellite imagery) and editing that information into a database that is freely open and available to the humanitarian community. Often these activities are organized around specific events called mapping parties in which participants meet to edit the map together.
+
+As previously mentioned, activities are typically organized around editing data into OpenStreetMap. OSM is preferable to many alternatives because of the liberal licensing of its data and the robust toolchain built around it. The quality of the tools built to interact with OSM reflects the interest it has garnered from humanitarian agencies in that many of these have been developed with support from agencies like the Department of State/HIU, USAID/Geocenter, International Red Cross, not to mention our own. OFDA helped fund an update to the OpenStreetMap tasking server which was build to aid in the coordination of volunteer mapping events.
 
 A couple recent examples include:
 
