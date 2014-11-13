@@ -113,9 +113,9 @@ A couple recent examples include:
 
 <div class="message">
 
-- Department of States collaboration with the International Red Cross (IRC) Humanitarian OpenStreetMap Team (HOT) to perform damage assessments in Tacloban after cyclone Yolanda. http://bit.ly/1wMBS37
+<li>Department of States collaboration with the International Red Cross (IRC) Humanitarian OpenStreetMap Team (HOT) to perform damage assessments in Tacloban after cyclone Yolanda. http://bit.ly/1wMBS37</li>
 
-- IRC’s collaboration with Department of State’s Humanitarian Information Center mapping out communities in west africa affected by the Ebola outbreak. http://bit.ly/ZeRWj2
+<ol>IRC’s collaboration with Department of State’s Humanitarian Information Center mapping out communities in west africa affected by the Ebola outbreak. http://bit.ly/ZeRWj2</ol>
 
 </div>
 
