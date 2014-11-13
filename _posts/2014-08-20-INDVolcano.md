@@ -3,9 +3,9 @@ layout: post
 title: 
 ---
 
-<center>![USAID](http://i.imgur.com/fs6AlD4.png)</center> ##<strong>Improving Data Poor Environments</strong>
+<center>![USAID](http://i.imgur.com/fs6AlD4.png)</center> 
 
-
+##<strong>Improving Data Poor Environments</strong>
 
 ![Flee](http://i.imgur.com/vwdh3dW.jpg)
 
@@ -28,15 +28,31 @@ All of the dark tan polygons displayed on the right of Fig. 2 are descriptions o
 <ol></ol>
 ###Decision Making
 
-USAID/OFDA is already using OpenStreetMap data for planning. Taken from the latest Indonesian Fact Sheet, these images show the information constraints USAID/OFDA currently faces. The OFDA regional team and their partners are actively planning evacuation routes using the best available data. The data 
+USAID/OFDA is already using OpenStreetMap data for planning. Taken from the latest Indonesian Fact Sheet, these images show the information constraints USAID/OFDA currently faces. The OFDA regional team and their partners are actively planning evacuation routes using the best available data.
 
 ![FactSheet](http://i.imgur.com/VAVEDLG.jpg)
+
+<center><sup>Image of a map, taken from the latest USAID/OFDA Indonesian Fact Sheet.</sup></center>
+
 ![FactSheet2](http://i.imgur.com/WMOIyGt.jpg)
+
+<center><sup>Close up of the inset map.</sup></center>
+
 ![FactSheet3](http://i.imgur.com/F9TmLpS.png)
+
+<center><sup>The inset map as it's seen in OpenStreetMap</sup></center>
+
+![FactSheet6](http://i.imgur.com/qdntDn3.png)
+
+<center><sup>The inset map as it's seen in Google Maps.</sup></center>
+
 ![FactSheet4](http://i.imgur.com/aW9rpNh.png)
+
+<center><sup>What the location actually looks via satellite (Google Earth).</sup></center>
+
 ![FactSheet5](http://i.imgur.com/UvefRKJ.png)
 
-
+<center><sup>Note the amount of missing data.</sup></center>
 
 ###Hazard/Risk Modelling
 
