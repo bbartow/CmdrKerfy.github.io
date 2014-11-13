@@ -3,7 +3,7 @@ layout: post
 title: 
 ---
 
-![USAID](http://i.imgur.com/fs6AlD4.png)![USGS](http://i.imgur.com/Gfq14lo.png)
+<center>![USAID](http://i.imgur.com/fs6AlD4.png)!</center>
 
 ##<strong>Improving Data Poor Environments</strong>
 
