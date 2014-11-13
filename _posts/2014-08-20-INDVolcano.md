@@ -34,6 +34,8 @@ Disaster Assistance Program (VDAP) as posing particular challenges to its abilit
 posed by volcanic hazards in these areas. VDAP is interested in creating data for these vulnerable
 areas and has highlighted 10 priority volcanoes.
 
+<ol></ol>
+
 <table>
   <thead>
     <tr>
@@ -101,6 +103,8 @@ areas and has highlighted 10 priority volcanoes.
     </tr>
   </tbody>
 </table>
+
+<ol></ol>
 
 ##<strong>Volunteer Mapping</strong>
 
