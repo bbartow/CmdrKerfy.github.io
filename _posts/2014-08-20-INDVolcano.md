@@ -5,29 +5,40 @@ title: Indonesia Data Creation
 
 <center>![USAID](http://i.imgur.com/fs6AlD4.png)</center>
 
-##<strong>The Problem</strong>
+##<strong>Improving Data Poor Environments</strong>
 
 ![Flee](http://i.imgur.com/vwdh3dW.jpg)
 
 Many active volcanoes lack open data about the buildings and infrastructure surrounding them, making it difficult to ascertain the risk posed by volcanic hazards. This problem is especially evident in Indonesia; Figure 1 below demonstrates the extent of this problem. Kediri, a town 19 miles to the West of Mount Kelud in East Java was evacuated earlier this year when threatened by Kelud’s February eruption. Despite this, virtually no effort has been made to map the homes and infrastructure of this or any other surrounding town. Determining the extent and distribution of risk to local infrastructure posed by Kelud is just as difficult today as it was before its most recent eruption.
 
-Figure 2 highlights the infrastructure added to OpenStreetMap (OSM) in central Jakarta which has received more attention and effort from the local open data community. All of the dark tan polygons displayed on the right of Fig. 2 are descriptions of Jakarta’s buildings which were added to OSM, They are now available not just in the picture or on OSM’s website but to download by anybody for free for use in a variety of software. This data can be used in hazard risk models, to inform development decisions or for a variety of other purposes. The main reason we include Fig 2 is to demonstrate the difference that attention from the volunteer community can make and to highlight the severe lack of open data around many Indonesian volcanoes.
-
 ![Volcano1](http://i.imgur.com/0q0ODRz.png)
 
 <center><sup>Fig.1 Bing Map Imagery and OpenStreetMap Image of Kediri, Indonesia</sup></center>
+
+The open data community is working on fixing these data gaps around the world. Figure 2 highlights the infrastructure added to OpenStreetMap (OSM) for a different areas in Indonesia, in this case central Jakarta. OpenStreetMap, often referred to as the Wikipedia of maps, is a collaborative project to create a free editable map of the world. Jakarta has received much attention and effort from this community and the local open data community. 
 
 ![Volcano2](http://i.imgur.com/3PguS3W.png)
 
 <center><sup>Fig.2 Bing Maps Imagery and OpenStreetMap Image of Jakarta, Indonesia</sup></center>
 
-USAID/OFDA is already using OpenStreetMap data for planning. Taken from the latest Indonesian Fact Sheet, these images show the information constraints USAID/OFDA currently faces.
+All of the dark tan polygons displayed on the right of Fig. 2 are descriptions of Jakarta’s buildings which were added to OSM, They are now available not just in the picture or on OSM’s website but to download by anybody for free for use in a variety of software. This data can be used in hazard risk models, to inform development decisions or for a variety of other purposes. 
+
+-----
+##<strong>USAID/OFDA Use of Limited Data</strong>
+
+###Decision Making
+
+USAID/OFDA is already using OpenStreetMap data for planning. Taken from the latest Indonesian Fact Sheet, these images show the information constraints USAID/OFDA currently faces. The OFDA regional team and their partners are actively planning evacuation routes using the best available data. The data 
 
 ![FactSheet](http://i.imgur.com/VAVEDLG.jpg)
 ![FactSheet2](http://i.imgur.com/WMOIyGt.jpg)
 ![FactSheet3](http://i.imgur.com/F9TmLpS.png)
 ![FactSheet4](http://i.imgur.com/aW9rpNh.png)
 ![FactSheet5](http://i.imgur.com/UvefRKJ.png)
+
+
+
+###Hazard/Risk Modelling
 
 The severe lack of Open Data around Volcanoes in Indonesia was highlighted by OFDA’s Volcano
 Disaster Assistance Program (VDAP) as posing particular challenges to its ability to model the risks
@@ -103,6 +114,8 @@ areas and has highlighted 10 priority volcanoes.
     </tr>
   </tbody>
 </table>
+
+In 
 
 -----
 ##<strong>Volunteer Mapping</strong>
