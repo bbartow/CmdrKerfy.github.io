@@ -3,9 +3,9 @@ layout: post
 title: 
 ---
 
-<center>![USAID](http://i.imgur.com/fs6AlD4.png)</center>
+<center>![USAID](http://i.imgur.com/fs6AlD4.png)</center> ##<strong>Improving Data Poor Environments</strong>
 
-##<strong>Improving Data Poor Environments</strong>
+
 
 ![Flee](http://i.imgur.com/vwdh3dW.jpg)
 
