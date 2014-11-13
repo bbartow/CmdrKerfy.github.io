@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Indonesia Data Creation
+title: 
 ---
 
 <center>![USAID](http://i.imgur.com/fs6AlD4.png)</center>
@@ -25,7 +25,7 @@ All of the dark tan polygons displayed on the right of Fig. 2 are descriptions o
 
 -----
 ##<strong>USAID/OFDA Use of Limited Data</strong>
-
+<ol></ol>
 ###Decision Making
 
 USAID/OFDA is already using OpenStreetMap data for planning. Taken from the latest Indonesian Fact Sheet, these images show the information constraints USAID/OFDA currently faces. The OFDA regional team and their partners are actively planning evacuation routes using the best available data. The data 
