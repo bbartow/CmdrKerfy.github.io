@@ -42,17 +42,13 @@ USAID/OFDA is already using OpenStreetMap data for planning. Taken from the late
 
 <center><sup><i>The inset map as it's seen in OpenStreetMap</i></sup></center>
 
-![FactSheet6](http://i.imgur.com/qdntDn3.png)
-
-<center><sup><i>The inset map as it's seen in Google Maps. Slightly more data, but still lacking.</i></sup></center>
-
 ![FactSheet4](http://i.imgur.com/aW9rpNh.png)
 
 <center><sup></i>What the location actually looks via satellite (Google Earth).</i></sup></center>
 
 ![FactSheet5](http://i.imgur.com/UvefRKJ.png)
 
-<center><sup><i>Note the amount of missing data when comparing online data repositories with satellite imagery.</i></sup></center>
+<center><sup><i>Note the amount of missing data when comparing OpenStreetMap data with satellite imagery.</i></sup></center>
 
 ###Hazard/Risk Modelling
 
@@ -181,6 +177,8 @@ A glance at the list of previous volunteer mapping activities highlights and it 
     </tr>
   </tbody>
 </table>
+
+-----
 
 ##<strong>Proposal</strong>
 
