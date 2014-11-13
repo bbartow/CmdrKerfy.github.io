@@ -191,11 +191,11 @@ It is expected that in March 2015, volcanoes in Indonesia will not be receiving 
 The following efforts will help to elicit participation in this activity:
 
 <div class="message">
-DC Mapping Event
+<strong>DC Mapping Event</strong>
 <li>Hosting the activity under the umbrella of USAID/Geocenter’s “Mapping for Resilience” program will ensure that the mapping event is incorporated into a GIS class at a local university (George Washington University) guaranteeing a base level of participation.</li>
 <ol></ol>
 
-Indonesia Mapping Event
+<strong>Indonesia Mapping Event</strong>
 <li>DoS/HIU MapGive training documentation can be translated to Indonesian to ensure training materials are available to assist less skilled participants.</li>
 <li>Indonesian partner (yet to be identified) will promote the activity to local Indonesian Universities, identify a location for the mapping event and host it.</li>
 </div>
