@@ -181,7 +181,7 @@ A glance at the list of previous volunteer mapping activities highlights and it 
 
 -----
 
-##<strong>Proposal</strong>
+##<strong>Options</strong>
 
 An event aimed at promoting the creation of data on the location and distribution of buildings, roads and agricultural fields around a 50 km radius of their 10 volcanoes. The event would take place March/April 2015 and could be handled in two ways. If encouraging Indonesian participation is not identified as an explicit goal than we could continue on with this activity focused around a domestic event at no cost to OFDA save for some staff time. If we aim to encourage Indonesian volunteerism than some funding would be necessary to secure an international partner who can host a linked event in Indonesia and assist in coordination and outreach.
 
