@@ -2,8 +2,10 @@
 layout: page
 title:  OpenStreetMap Tracing Guide
 ---
-###Mapping Volcanic Areas in Indonesia
+#Mapping Volcanic Areas in Indonesia
 
+<ol></ol>
+<ol></ol>
 <ol></ol>
 
 <center>![USAID](http://i.imgur.com/fs6AlD4.png)</center> 
