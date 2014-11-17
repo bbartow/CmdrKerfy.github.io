@@ -4,34 +4,34 @@ title:
 ---
 <center>![USAID](http://i.imgur.com/fs6AlD4.png)</center>
 
-##<strong>Improving Data Poor Environments</strong>
+##<strong>Better Understanding What's At Risk Around Volcanoes</strong>
 
 ![Flee](http://i.imgur.com/vwdh3dW.jpg)
 
-Many poopy volcanoes lack open data about the buildings and infrastructure surrounding them, making it difficult to ascertain the risk posed by volcanic hazards. This problem is especially evident in Indonesia; Figure 1 below demonstrates the extent of this problem. Kediri, a town 19 miles to the West of Mount Kelud in East Java was evacuated earlier this year when threatened by Kelud’s February eruption. Despite this, virtually no effort has been made to map the homes and infrastructure of this or any other surrounding town. Determining the extent and distribution of risk to local infrastructure posed by Kelud is just as difficult today as it was before its most recent eruption.
+Many active volcanoes lack open data about the buildings and infrastructure surrounding them, making it difficult to ascertain the risk posed by volcanic hazards. This problem is especially evident in Indonesia; Figure 1 below demonstrates the extent of this problem. Kediri, a town 19 miles to the West of Mount Kelud in East Java, was evacuated earlier this year when threatened by Kelud’s February eruption. Despite this, virtually no effort has been made to map the homes and infrastructure of this or any other surrounding town. Determining the extent and distribution of risk to local infrastructure posed by Kelud is just as difficult today as it was before its most recent eruption.
 
 ![Volcano1](http://i.imgur.com/0q0ODRz.png)
 
 <center><sup><i>Fig.1 Bing Map Imagery and OpenStreetMap Image of Kediri, Indonesia</i></sup></center>
 
-The open data community is working on fixing these data gaps around the world. Figure 2 highlights the infrastructure added to OpenStreetMap (OSM) for a different areas in Indonesia, in this case central Jakarta. OpenStreetMap, often referred to as the Wikipedia of maps, is a collaborative project to create a free editable map of the world. Jakarta has received much attention and effort from this community and the local open data community. 
+Open data initiatives and volunteer communities are helping to fix these information gaps around the world. OpenStreetMap, often referred to as the Wikipedia of maps, is a collaborative project to create a free editable map of the world. Figure 2 highlights the infrastructure added to OpenStreetMap (OSM) for a different areas in Indonesia, in this case central Jakarta. Jakarta has received significant attention and effort from OSM volunteer mappers. 
 
 ![Volcano2](http://i.imgur.com/3PguS3W.png)
 
 <center><sup><i>Fig.2 Bing Maps Imagery and OpenStreetMap Image of Jakarta, Indonesia</i></sup></center>
 
-All of the dark tan polygons displayed on the right of Fig. 2 are descriptions of Jakarta’s buildings which were added to OSM, They are now available not just in the picture or on OSM’s website but to download by anybody for free for use in a variety of software. This data can be used in hazard risk models, to inform development decisions or for a variety of other purposes. 
+All of the dark tan polygons displayed on the right of Fig. 2 are descriptions of Jakarta’s buildings which were added to OSM. This data is now available, not just in the picture or on OSM’s website, but to download by anybody for free for use in a variety of software. This data can be used in hazard risk models, to inform development decisions or for a variety of other purposes. 
 
 -----
-##<strong>USAID/OFDA Use of Limited Data</strong>
+##<strong>The Problem of Missing Data</strong>
 <ol></ol>
 ###Decision Making
 
-USAID/OFDA is already using OpenStreetMap data for planning. Taken from the latest Indonesian Fact Sheet, these images show the information constraints USAID/OFDA currently faces. The OFDA regional team and their partners are actively planning evacuation routes using the best available data.
+Many national governments, IGOs, and NGOs, including USAID/OFDA partners, use OpenStreetMap data for planning. This evacuation planning map and subsequent images highlight the scarcity of quality information about many at-risk areas.
 
 ![FactSheet](http://i.imgur.com/VAVEDLG.jpg)
 
-<center><sup><i>Image of a map, taken from the latest USAID/OFDA Indonesian Fact Sheet.</i></sup></center>
+<center><sup><i>Image of a Government of Indonesia evacuation route map using OSM data, taken from the latest USAID/OFDA Indonesian Fact Sheet.</i></sup></center>
 
 ![FactSheet2](http://i.imgur.com/WMOIyGt.jpg)
 
@@ -51,7 +51,7 @@ USAID/OFDA is already using OpenStreetMap data for planning. Taken from the late
 
 ###Hazard/Risk Modelling
 
-The severe lack of Open Data around Volcanoes in Indonesia was highlighted by OFDA’s Volcano Disaster Assistance Program (VDAP) as posing particular challenges to its ability to model the risks posed by volcanic hazards in these areas. VDAP is interested in creating data for these vulnerable areas and working with their counterparts in Indonesia to use these data to improve hazard assessments. They have highlighted 10 priority volcanoes.
+The severe lack of available data around Volcanoes in Indonesia was highlighted by OFDA’s Volcano Disaster Assistance Program (VDAP) as a particular challenge to its ability to model the risks posed by volcanic hazards in these areas. VDAP is interested in creating data for these vulnerable areas and working with their counterparts in Indonesia to use these data to improve hazard assessments. They have highlighted 10 priority volcanoes.
 
 <ol></ol>
 
@@ -128,56 +128,29 @@ The severe lack of Open Data around Volcanoes in Indonesia was highlighted by OF
 -----
 ##<strong>Volunteer Data Creation</strong>
 
-In an effort to assist USGS's Volcano Disaster Assistance Program and USAID/OFDA's Indonesian Programs, it was determined that a data creation event centered around the OpenStreetMap platform would be the most optimal way to both create data and engage the local Indonesian community.
+To assist USGS's Volcano Disaster Assistance Program, USAID/OFDA's Indonesian programs, and the broader humanitarian community's capacity to plan and respond to eruptions at the target volcanoes, a data creation event centered around the OpenStreetMap platform may be an optimal way to both create data and engage the local Indonesian community.
 
 ###What is Volunteer Data Creation?
 
-Volunteer data creation refers to activities that encourage a group of volunteers to apply their knowledge and skills to synthesizing or compiling spatial information from a variety of sources (such as satellite imagery) and editing that information into a database that is freely open and available to the humanitarian community. Often these activities are organized around specific events called mapping parties in which participants meet to edit the map together.
+Volunteer data creation refers to activities that encourage a group of volunteers to create and edit spatial information using a variety of sources (such as satellite imagery) in a database that is freely open and available to the humanitarian community. Often these activities are organized around specific events called mapping parties in which participants meet to edit the map together.
 
-As previously mentioned, activities are typically organized around editing data into OpenStreetMap. OSM is preferable to many alternatives because of the liberal licensing of its data and the robust toolchain built around it. The quality of the tools built to interact with OSM reflects the interest it has garnered from humanitarian agencies in that many of these have been developed with support from agencies like the Department of State/HIU, USAID/Geocenter, International Red Cross, not to mention our own. OFDA helped fund an update to the OpenStreetMap tasking server which was build to aid in the coordination of volunteer mapping events.
+As previously mentioned, activities are typically organized around editing data into OpenStreetMap. OSM is preferable to alternative map platforms because all the data created is freely available to all users. For this reason, OSM has garnered significant interest and investment from humanitarian agencies such as the Department of State/HIU, USAID/Geocenter, International Red Cross, as well as USAID/OFDA. For example, OFDA recently provided funding for an update to the OpenStreetMap tasking server which was build to aid in the coordination of volunteer mapping events.
 
-A couple recent examples include:
+Other recent examples include:
 
 <div class="message">
 
-<li>Department of States collaboration with the International Red Cross (IRC) Humanitarian OpenStreetMap Team (HOT) to perform damage assessments in Tacloban after cyclone Yolanda. http://bit.ly/1wMBS37</li>
+<li>Department of State's Humanitarian Information Unit (HIU) collaborated with the International Red Cross (IFRC) and Humanitarian OpenStreetMap Team (HOT) to perform damage assessments in Tacloban after cyclone Yolanda (Haiyan). http://bit.ly/1wMBS37</li>
 <ol></ol>
-<li>IRC’s collaboration with Department of State’s Humanitarian Information Center mapping out communities in west africa affected by the Ebola outbreak. http://bit.ly/ZeRWj2</li>
+<li>HIU and IFRC also collaborated to map communities in west africa affected by the Ebola outbreak. http://bit.ly/ZeRWj2</li>
 
 </div>
 
-Previous mapping parties have looked very different depending on what is being mapped and the level of local knowledge required to do so. Sometimes they require extensive training support or necessitate some level of local knowledge and sometimes basic knowledge about how to navigate a browser is sufficient to enable successful contribution. Luckily, infrastructure around volcanoes is easy enough to trace from satellite imagery so the barriers to entry for interested volunteers are low for contributing to our shared data on this theme. Although local knowledge is always helpful in adding depth to data, these activities can scale dramatically when a broad volunteer base is appropriate.
+Previous mapping parties have looked very different depending on what is being mapped and the level of local knowledge needed. Sometimes they require extensive training support or some level of local knowledge while sometimes basic knowledge about how to navigate a web browser is sufficient for participants to contribute to the map. In this case, infrastructure around volcanoes is generally easy enough to trace from satellite imagery that there is little technical skill needed for interested volunteers to participate.
 
-Beyond the collection of of useful data, volunteer mapping also serves as a productive outreach vehicle. These activities convene interest around a specific theme and give interested parties an avenue to participate in international humanitarianism productively. VDAP is specifically interested in ways to get Indonesians to participate in mapping infrastructure around Volcanoes.
+Beyond the collection of of useful data, volunteer mapping also serves as a productive outreach vehicle. These activities convene interest around the subject and give interested parties an avenue to participate in international humanitarianism productively. VDAP is specifically interested in ways to get Indonesians to participate in mapping infrastructure around Volcanoes since local knowledge is always helpful in providing better accuracy and depth to the data.
 
-A glance at the list of previous volunteer mapping activities highlights and it is easy to see from the various agencies and NGO’s participating that these activities tend to be highly collaborative by nature with a number of Agencies and NGO’s bringing their particular strengths to bear. Below is a selection of institutions and potential collaborators with assets useful to volunteer mapping in Indonesia.
 
-<table>
-  <thead>
-    <tr>
-      <th>ORGANIZATION</th>
-      <th>DETAILS</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><center>USAID/Geocenter</center></td>
-      <td><strong>Coordination/Implementation</strong> - Has a vehicle for promoting and hosting volunteer mapping events under their “Mapping for Resilience” (MFR). A number of mapping events have already been held under MFR. MFR would provide ties to domestic universities, a central location to host the event and a guaranteed base of participants if we leveraged their resources.</td>
-    </tr>
-    <tr>
-      <td><center>DoS/HIU</center></td>
-      <td><strong>Training/Imagery/Outreach</strong> - Has created a platform to train new users on how to add data to OpenStreetMap called MapGive (http://mapgive.state.gov/). HIU also has an established mechanism for supplying imagery if the quality of publicly available imagery is not good enough for volunteer mapping, it is called Imagery to the Crowd. HIU has also recently brought on a Presidential Innovation Fellow who has experience in doing outreach and hosting international volunteer mapping events.</td>
-    </tr>
-    <tr>
-      <td><center>World Bank/GFDRR</center></td>
-      <td><strong>Outreach</strong> - The world bank has done a lot of work and put a lot of thought behind how to use OSM for resilience, they recently wrote a field guide for interacting with open data for humanitarian managers called Open Data for Resilience Field Guide (https://www.gfdrr.org/ODRIFG). GFDRR has developed ties to many of the key actors around OSM in the field.</td>
-    </tr>
-    <tr>
-      <td><center>Humanitarian OpenStreetMap Team (HOT)</center></td>
-      <td><strong>Tools/Outreach</strong> - Manages and builds tools used for managing and coordinating mapping activities and has experience providing training and supporting mapping events.</td>
-    </tr>
-  </tbody>
-</table>
 
 -----
 
@@ -200,3 +173,32 @@ The following efforts will help to elicit participation in this activity:
 <li>DoS/HIU MapGive training documentation can be translated to Indonesian to ensure training materials are available to assist less skilled participants.</li>
 <li>Indonesian partner (yet to be identified) will promote the activity to local Indonesian Universities, identify a location for the mapping event and host it.</li>
 </div>
+
+It is easy to see from the various agencies and NGOs that have participated in past efforts that these activities tend to be highly collaborative by nature. Below is a selection of institutions and potential collaborators with assets useful to volunteer mapping in Indonesia.
+
+<table>
+  <thead>
+    <tr>
+      <th>ORGANIZATION</th>
+      <th>DETAILS</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><center>USAID/Geocenter</center></td>
+      <td><strong>Coordination/Implementation</strong> - Has a vehicle for promoting and hosting volunteer mapping events under their “Mapping for Resilience” (MFR) initiative. A number of mapping events have already been held under MFR. MFR involvement would provide ties to domestic universities, a central location to host the event and a guaranteed base of participants.</td>
+    </tr>
+    <tr>
+      <td><center>DoS/HIU</center></td>
+      <td><strong>Training/Imagery/Outreach</strong> - Has created a platform to train new users on how to add data to OpenStreetMap called MapGive (http://mapgive.state.gov/). HIU also has an established mechanism called Imagery to the Crowd for supplying USG-purchased satellite imagery where needed. HIU has also recently brought on a Presidential Innovation Fellow who has experience in doing outreach and hosting international volunteer mapping events.</td>
+    </tr>
+    <tr>
+      <td><center>World Bank/GFDRR</center></td>
+      <td><strong>Outreach</strong> - The World Bank has done a lot of work and put a lot of thought behind how to use OSM for resilience. They recently wrote a field guide for interacting with open data for humanitarian managers called Open Data for Resilience Field Guide (https://www.gfdrr.org/ODRIFG). GFDRR has developed ties to many of the key actors around OSM in the field.</td>
+    </tr>
+    <tr>
+      <td><center>Humanitarian OpenStreetMap Team (HOT)</center></td>
+      <td><strong>Tools/Outreach</strong> - Manages and builds tools used for managing and coordinating mapping activities and has experience providing training and supporting mapping events.</td>
+    </tr>
+  </tbody>
+</table>
