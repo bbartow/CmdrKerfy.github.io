@@ -1,6 +1,7 @@
 ---
 layout: page
-title:  OpenStreetMap Tracing Guide (Mapping Volcanic Areas in Indonesia)
+title:  OpenStreetMap Tracing Guide
+excerpt: Indonesia
 ---
 
 <center>![USAID](http://i.imgur.com/fs6AlD4.png)</center> 
@@ -16,7 +17,7 @@ There are currently two themes built on Poole:
 
 Learn more and contribute on [GitHub](https://github.com/poole).
 
-## Setup
+## FEATURES TO MAP
 
 Some fun facts about the setup of this project include:
 
