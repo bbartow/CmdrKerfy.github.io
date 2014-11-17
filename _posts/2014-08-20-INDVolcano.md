@@ -173,7 +173,7 @@ The following efforts will help to elicit participation in this activity:
 Training documentation can be translated to Indonesian to ensure training materials are available to assist less skilled participants. An Indonesian partner (yet to be identified) could promote the activity to local Indonesian Universities, identify a location for the mapping event and host it.
 </div>
 
-###Potential Collaboration
+###Potential Partners
 
 Below is a selection of institutions and potential collaborators with assets useful to volunteer mapping in Indonesia.
 
