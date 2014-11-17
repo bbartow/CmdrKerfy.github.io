@@ -126,9 +126,9 @@ The severe lack of available data around Volcanoes in Indonesia was highlighted 
 ![Volcanoes](http://i.imgur.com/DtVwYQH.png)
 
 -----
-##<strong>Volunteer Data Creation</strong>
+##<strong>How to Fill the Gaps - Volunteer Data Creation</strong>
 
-To assist USGS's Volcano Disaster Assistance Program, USAID/OFDA's Indonesian programs, and the broader humanitarian community's capacity to plan and respond to eruptions at the target volcanoes, a data creation event centered around the OpenStreetMap platform may be an optimal way to both create data and engage the local Indonesian community.
+To assist USGS's Volcano Disaster Assistance Program, USAID/OFDA's Indonesian programs, and the broader humanitarian community's capacity to plan and respond to eruptions at the target volcanoes, a data creation event centered around the OpenStreetMap platform may be an optimal way to both create data and engage the local Indonesian community. This event would promote the creation of data on the location and distribution of buildings, roads and agricultural fields around a 50 km radius of their 10 volcanoes. 
 
 ###What is Volunteer Data Creation?
 
@@ -148,7 +148,7 @@ Other recent examples include:
 
 Previous mapping parties have looked very different depending on what is being mapped and the level of local knowledge needed. Sometimes they require extensive training support or some level of local knowledge while sometimes basic knowledge about how to navigate a web browser is sufficient for participants to contribute to the map. In this case, infrastructure around volcanoes is generally easy enough to trace from satellite imagery that there is little technical skill needed for interested volunteers to participate.
 
-Beyond the collection of of useful data, volunteer mapping also serves as a productive outreach vehicle. These activities convene interest around the subject and give interested parties an avenue to participate in international humanitarianism productively. VDAP is specifically interested in ways to get Indonesians to participate in mapping infrastructure around Volcanoes since local knowledge is always helpful in providing better accuracy and depth to the data.
+Beyond the collection of of useful data, volunteer mapping also serves as a productive outreach vehicle. These activities convene interest around the subject and give interested parties an avenue to participate in international humanitarianism productively.
 
 
 
@@ -156,26 +156,22 @@ Beyond the collection of of useful data, volunteer mapping also serves as a prod
 
 ##<strong>Options</strong>
 
-An event aimed at promoting the creation of data on the location and distribution of buildings, roads and agricultural fields around a 50 km radius of their 10 volcanoes. The event would take place March/April 2015 and could be handled in two ways. If encouraging Indonesian participation is not identified as an explicit goal than we could continue on with this activity focused around a domestic event at no cost to OFDA save for some staff time. If we aim to encourage Indonesian volunteerism than some funding would be necessary to secure an international partner who can host a linked event in Indonesia and assist in coordination and outreach.
-
-It is expected that in March 2015, volcanoes in Indonesia will not be receiving the consistent media coverage that has focused the public’s attention and increased volunteers. Because of this, special outreach measures are necessary to garner support for this effort. The most effective way to perform this outreach is through partnership and by leveraging the resources of the intra-agency.
-
-The following efforts will help to elicit participation in this activity:
+The event would take place March/April 2015 and could be handled in two ways:  
 
 <div class="message">
 <strong>DC Mapping Event</strong>
 <ol></ol>
-<li>Hosting the activity under the umbrella of USAID/Geocenter’s “Mapping for Resilience” program will ensure that the mapping event is incorporated into a GIS class at a local university (George Washington University) guaranteeing a base level of participation.</li>
+<li>This activity could be focused around a domestic event at no cost to OFDA save for some staff time. Hosting the activity under the umbrella of USAID/Geocenter’s “Mapping for Resilience” program would ensure that the mapping event is incorporated into a GIS class at a local university (George Washington University), guaranteeing a base level of participation.</li>
 <ol></ol>
 
 <strong>Indonesia Mapping Event</strong>
 <ol></ol>
-Training documentation can be translated to Indonesian to ensure training materials are available to assist less skilled participants. An Indonesian partner (yet to be identified) could promote the activity to local Indonesian Universities, identify a location for the mapping event and host it.
+VDAP is specifically interested in ways to get Indonesians to participate in mapping infrastructure around Volcanoes since local knowledge is always helpful in providing better accuracy and depth to the data. If we aim to encourage the participation of Indonesian volunteers, some funding would be necessary to secure an international partner who can host a linked event in Indonesia and assist with coordination and outreach. Training documentation would need to be translated to Indonesian to ensure training materials are available to assist less experienced participants. An Indonesian partner (yet to be identified) could promote the activity to local universities, identify a location for the mapping event and host it.
 </div>
 
 ###Potential Partners
 
-Below is a selection of institutions and potential collaborators with assets useful to volunteer mapping in Indonesia.
+It is expected that in March 2015, volcanoes in Indonesia will not be receiving the consistent media coverage that has focused the public’s attention and increased volunteers. Because of this, special outreach measures would be necessary to garner support for this effort. The most effective way to perform this outreach is through partnership and by leveraging the resources of the intra-agency. Below is a selection of institutions and potential collaborators with assets useful to volunteer mapping in Indonesia.
 
 <table>
   <thead>
