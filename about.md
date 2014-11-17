@@ -1,6 +1,7 @@
 ---
 layout: page
 title:  OpenStreetMap Tracing Guide
+tagline:  Indonesia
 ---
 
 <center>![USAID](http://i.imgur.com/fs6AlD4.png)</center> 
@@ -14,5 +15,4 @@ This guide
 ##<strong>FEATURES TO MAP</strong>
 
 ###<strong>Buildings</strong>
-
 
