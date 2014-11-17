@@ -170,11 +170,12 @@ The following efforts will help to elicit participation in this activity:
 
 <strong>Indonesia Mapping Event</strong>
 <ol></ol>
-<li>DoS/HIU MapGive training documentation can be translated to Indonesian to ensure training materials are available to assist less skilled participants.</li>
-<li>Indonesian partner (yet to be identified) will promote the activity to local Indonesian Universities, identify a location for the mapping event and host it.</li>
+Training documentation can be translated to Indonesian to ensure training materials are available to assist less skilled participants. An Indonesian partner (yet to be identified) could promote the activity to local Indonesian Universities, identify a location for the mapping event and host it.
 </div>
 
-It is easy to see from the various agencies and NGOs that have participated in past efforts that these activities tend to be highly collaborative by nature. Below is a selection of institutions and potential collaborators with assets useful to volunteer mapping in Indonesia.
+###Potential Collaboration
+
+Below is a selection of institutions and potential collaborators with assets useful to volunteer mapping in Indonesia.
 
 <table>
   <thead>
